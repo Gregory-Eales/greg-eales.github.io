@@ -1,25 +1,16 @@
-title: Minimaless Demo
-author: GitHub User
-email: your-email@domain.com
+title: Gregory H Eales
+author: Gregory Eales
+email: gregory.hamilton.e@gmail.com
 description: >
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  
 
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 
-website: https://www.brettinternet.com
-github_username:  brettinternet
-bitbucket_username: brettinternet
-codepen_username: brettinternet
-linkedin_username: brettinternet
-twitter_username: brettinternet
-facebook_username: brettinternet
-instagram_username: brettinternet
-keybase_username: brettinternet
-paypal_username: brettinternet
-stackoverflow_username: brettinternet # (developer story)
+github_username:  Gregory-Eales
+linkedin_username: gregory-eales
+twitter_username: GregoryHamE
+
 
 
 collections:
@@ -56,7 +47,7 @@ plugins:
 
 markdown: kramdown
 theme: minimaless
-remote_theme: brettinternet/minimaless # uncomment to allow GitHub to build for GitHub Pages - https://github.com/blog/2464-use-any-theme-with-github-pages
+remote_theme: brettinternet/minimaless
 
 include:
   - _pages
