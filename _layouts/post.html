@@ -2,11 +2,10 @@
 layout: default
 ---
 
-{% include mathjax.html %}
 
 <article class="post" itemscope itemtype="http://schema.org/BlogPosting">
 
-  {% include mathjax.html %}
+  
 
   <header class="post-header">
     <h1 class="post-title" itemprop="name headline">{{ page.title | escape }}</h1>
@@ -18,6 +17,9 @@ layout: default
       {% if page.author %}
         • <span class="post-author" itemprop="author" itemscope itemtype="http://schema.org/Person"><span itemprop="name">{{ page.author }}</span></span>
       {% endif %}</p>
+
+      {% include mathjax.html %}
+
   </header>
 
   <div class="post-content" itemprop="articleBody">
