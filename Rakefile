@@ -1,3 +1,10 @@
+#############################################################################
+#
+# Modified version of jekyllrb Rakefile
+# https://github.com/jekyll/jekyll/blob/master/Rakefile
+#
+#############################################################################
+
 require 'rake'
 require 'date'
 require 'yaml'
