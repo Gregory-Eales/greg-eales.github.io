@@ -4,6 +4,6 @@ title: Contact
 permalink: /contact/
 ---
 
-_Write_ **something** about [yourself](https://www.google.com/search?q=who+am+i) here.
+If you want to get in touch,
 
-Also, you might not want to display this many modes of contact.
+feel free to contact me using the following channel.
