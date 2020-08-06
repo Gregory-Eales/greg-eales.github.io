@@ -13,6 +13,12 @@ $$x_1 = {-b + \sqrt{b^2-4ac} \over 2a}$$
 
 $$x_2 = {-b - \sqrt{b^2-4ac} \over 2a} \notag$$
 
+$x_1 = {-b + \sqrt{b^2-4ac} \over 2a}$
+
+$x_2 = {-b - \sqrt{b^2-4ac} \over 2a} \notag$
+
+
+
 <!--more-->
 
 You need set `mathjax: true` in the *_config.yml* or the markdown’s front matter to **enable** it.
