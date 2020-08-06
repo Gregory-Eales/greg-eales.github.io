@@ -13,6 +13,7 @@ twitter_username: GregoryHamE
 
 
 mathjax: true
+mathjax_autoNumber: true
 
 collections:
   - setup
