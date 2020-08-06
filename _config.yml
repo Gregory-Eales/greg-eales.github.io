@@ -21,6 +21,7 @@ keybase_username: brettinternet
 paypal_username: brettinternet
 stackoverflow_username: brettinternet # (developer story)
 
+mathjax: true
 
 collections:
   - setup
