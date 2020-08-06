@@ -18,7 +18,7 @@ DESTINATION_BRANCH = CONFIG["destination_branch"]
 
 def check_destination
   unless Dir.exist? CONFIG["destination"]
-    sh "git clone https://$GIT_NAME:$GH_TOKEN@github.com/#{USERNAME}/#{REPO}.git #{CONFIG["destination"]}"
+    sh "git clone https://$GIT_NAME:$GH_TOKEN@github.com/#{Gregory-Eales}/#{Gregory-Eales.github.io}.git #{CONFIG["destination"]}"
   end
 end
 
@@ -41,7 +41,7 @@ namespace :site do
     # Make sure destination folder exists as git repo
     check_destination
 
-    sh "git checkout #{SOURCE_BRANCH}"
+    sh "git checkout #{Main}"
     Dir.chdir(CONFIG["destination"]) { sh "git checkout #{DESTINATION_BRANCH}" }
 
     # Generate the site
