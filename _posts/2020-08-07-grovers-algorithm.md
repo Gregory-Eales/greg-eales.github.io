@@ -19,4 +19,4 @@ Although I am no expert, in my attempt to study how quantum computers and their 
 
 $$ \require{braket} \bra{x} \ket{x} $$
 
-Here we have Bra-Ket notation which...
+Here we have Bra-Ket notation which is used to denote the state of a quantum system.
