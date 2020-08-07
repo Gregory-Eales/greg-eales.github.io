@@ -58,11 +58,7 @@ Technical Experience
 
 :   **Python:** Here, we have an itemization, where we only want
     to add descriptions to the first few items, but still want to
-    mention some others together at the end. A format that works well
-    here is a description list where the first few items have their
-    first word emphasized, and the last item contains the final few
-    emphasized terms. Notice the reasonably nice page break in the pdf
-    version, which wouldn't happen if we generated the pdf via html.
+    mention some others together at the end. A format that works well.
 
 :   **C++:** Description of your experience with second-lang,
     perhaps again including a [link] [ref], this time placing the url
