@@ -3,6 +3,7 @@ published: true
 layout: post
 mathjax: true
 comments: true
+title: "Grover's Algorithm Simplified"
 date: '2020-08-7 23:41:54 +0000'
 categories: github jekyll
 ---
