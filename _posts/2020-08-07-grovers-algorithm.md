@@ -1,7 +1,17 @@
 ---
 published: true
 ---
-
+---
+layout: post
+mathjax: true
+comments: true
+title:  "Nested Square Roots"
+date:   2020-08-6 23:41:54 +0000
+title: Nested Square Roots
+date: '2020-08-6 23:41:54 +0000'
+categories: github jekyll
+published: true
+---
 
 ### Introduction
 
