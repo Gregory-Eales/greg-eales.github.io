@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Resume
-permalink: /setup/
+permalink: /resume/
 ---
 
 Gregory Eales
