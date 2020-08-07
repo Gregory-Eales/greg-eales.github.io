@@ -5,8 +5,8 @@ published: false
 layout: post
 mathjax: true
 comments: true
-title:  "Grovers Algorithm Simplified"
-date:   2020-08-7 23:41:54 +0000
+title:  "test"
+date:   2020-08-7 23:00:54 +0000
 categories: github jekyll
 ---
 
