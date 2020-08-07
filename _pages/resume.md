@@ -48,6 +48,9 @@ Technical Experience
     * Second item.
 
 ### Open Source
+
+-
+
 :   List open source contributions here, perhaps placing emphasis on
     the project names, for example the **Linux Kernel**, where you
     implemented multithreading over a long weekend, or **node.js**
@@ -55,6 +58,8 @@ Technical Experience
     your idea...
 
 ### Programming Languages
+
+-
 
 :   **Python:** Here, we have an itemization, where we only want
     to add descriptions to the first few items, but still want to
