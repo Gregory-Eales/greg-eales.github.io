@@ -6,7 +6,14 @@
       processEscapes: true
     }
   });
+  
+  window.MathJax = {
+  loader: {load: ['[tex]/braket']},
+  tex: {packages: {'[+]': ['braket']}}
+  };
 </script>
+
+
 <script
   type="text/javascript"
   charset="utf-8"
