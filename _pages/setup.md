@@ -4,34 +4,27 @@ title: Resume
 permalink: /setup/
 ---
 
-Johnny Coder
+Gregory Eales
 ============
 
 -------------------     ----------------------------
-1 MyAddress                        email@example.com
-MyTown 1000                          @twitter_handle
-MyCountry                           1800 my-phone-nr
+PO Box 1763                        email@example.com
+Pebble Beach, CA                     @twitter_handle
+United States                       1800 my-phone-nr
 -------------------     ----------------------------
 
 Education
 ---------
 
-2010-2014 (expected)
-:   **PhD, Computer Science**; Awesome University (MyTown)
+2019-2022 (expected)
+:   **BSc, Computer Science and Artificial Intelligence**; University of
+    London
 
-    *Thesis title: Deep Learning Approaches to the Self-Awesomeness
-     Estimation Problem*
-
-2007-2010
-:   **BSc, Computer Science and Electrical Engineering**; University of
-    HomeTown (HomeTown)
-
-    *Minor: Awesomeology*
 
 Experience
 ----------
 
-**Your Most Recent Work Experience:**
+**Engineering Intern:**
 
 Short text containing the type of work done, results obtained,
 lessons learned and other remarks. Can also include lists and
@@ -42,9 +35,6 @@ links:
 * Item with [link](http://www.example.com). Links will work both in
   the html and pdf versions.
 
-**That Other Job You Had**
-
-Also with a short description.
 
 Technical Experience
 --------------------
@@ -65,7 +55,7 @@ Open Source
     your idea...
 
 Programming Languages
-:   **first-lang:** Here, we have an itemization, where we only want
+:   **Python:** Here, we have an itemization, where we only want
     to add descriptions to the first few items, but still want to
     mention some others together at the end. A format that works well
     here is a description list where the first few items have their
@@ -73,17 +63,29 @@ Programming Languages
     emphasized terms. Notice the reasonably nice page break in the pdf
     version, which wouldn't happen if we generated the pdf via html.
 
-:   **second-lang:** Description of your experience with second-lang,
+:   **C++:** Description of your experience with second-lang,
     perhaps again including a [link] [ref], this time placing the url
     reference elsewhere in the document to reduce clutter (see source
     file). 
 
-:   **obscure-but-impressive-lang:** We both know this one's pushing
-    it.
+:   **Haskell:** Description of your experience with second-lang,
+    perhaps again including a [link] [ref], this time placing the url
+    reference elsewhere in the document to reduce clutter (see source
+    file).
 
-:   Basic knowledge of **C**, **x86 assembly**, **forth**, **Common Lisp**
+:   **Julia:** Description of your experience with second-lang,
+    perhaps again including a [link] [ref], this time placing the url
+    reference elsewhere in the document to reduce clutter (see source
+    file).
 
-[ref]: https://github.com/githubuser/superlongprojectname
+:   **Q#:** Description of your experience with second-lang,
+    perhaps again including a [link] [ref], this time placing the url
+    reference elsewhere in the document to reduce clutter (see source
+    file).
+
+:   Basic knowledge of **JavaScript**, **CSS**, **HTML**, 
+
+[ref]: https://github.com/gregory-eales/teeny-go
 
 Extra Section, Call it Whatever You Want
 ----------------------------------------
