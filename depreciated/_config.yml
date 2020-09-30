@@ -1,0 +1,74 @@
+title: Gregory H Eales
+author: Gregory Eales
+email: gregory.hamilton.e@gmail.com
+description: >
+  
+
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "" # the base hostname & protocol for your site, e.g. http://example.com
+
+github_username:  Gregory-Eales
+linkedin_username: gregory-eales
+twitter_username: GregoryHamE
+
+
+mathjax: true
+mathjax_autoNumber: true
+
+collections:
+  - setup
+
+# disqus:
+#   shortname:
+
+# Minimaless date format
+# refer to http://shopify.github.io/liquid/filters/date/ if you want to customize this
+minimaless:
+  date_format: "%b %-d, %Y"
+preview_posts: true
+permalink: /:title
+paginate: 10 # increase this value to reflect how many posts per page you want
+paginate_path: "/page:num/"
+
+# If you want to link only specific pages in your header, uncomment
+# this and add the path to the pages in order as they should show up
+header_pages:
+  - _pages/blog.md
+  - _pages/about.md
+  - _pages/contact.md
+  - _pages/resume.md
+  - _pages/github.md
+
+plugins:
+  - jekyll-feed
+  - jekyll-gist
+  - jekyll-sitemap
+  - jekyll-redirect-from
+  - jekyll-archives
+  - jekyll-paginate
+
+markdown: kramdown
+theme: minimaless
+remote_theme: brettinternet/minimaless
+
+include:
+  - _pages
+exclude:
+  - vendor
+  - .asset-cache
+  - .bundle
+  - .jekyll-assets-cache
+  - .sass-cache
+  - assets/js/plugins
+  - assets/js/_main.js
+  - assets/js/vendor
+  - Capfile
+  - CHANGELOG
+  - config
+  - Gemfile
+  - LICENSE
+  - log
+  - node_modules
+  - package.json
+  - Rakefile
+  - tmp
